@@ -1,0 +1,8 @@
+// Do-While Loops
+void main() {
+  var a=1;
+  do{
+    print(a);
+    a++;
+  }
+  while(a<=5);  }
